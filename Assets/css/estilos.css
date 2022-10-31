@@ -1,0 +1,14 @@
+.head{
+    background-image: url('../img/cielo2.jpg');
+    padding: 5%;
+}
+
+.foto{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+}
